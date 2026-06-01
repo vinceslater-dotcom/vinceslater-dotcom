@@ -1,4 +1,4 @@
-# Hi, I'm Vincent Philippot 👋
+# Hi, I'm Vincent Philippot 
 
 **Data Analyst & Data Engineer** — passionate about turning raw data into actionable insights.
 
