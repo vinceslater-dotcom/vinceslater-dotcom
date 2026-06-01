@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Vincent Philippot 👋
 
-<!--
-**vinceslater-dotcom/vinceslater-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst & Data Engineer** — passionate about turning raw data into actionable insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🎓 Graduate of the **Jedha Bootcamp** (Data Science & Engineering track)
+- - 🔍 Focused on **data pipelines**, **exploratory analysis**, and **machine learning**
+  - - 🌍 Based in France
+    - - 💬 Always happy to discuss data, Python, and automation
+     
+      - ---
+
+      ## 🛠️ Tech Stack
+
+      **Languages & Tools**
+
+      ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+      ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+      ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+      ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)
+      ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+      ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+      ---
+
+      ## 📌 Featured Projects
+
+      | Project | Description | Stack |
+      |---|---|---|
+      | [personal-finance_tracker](https://github.com/vinceslater-dotcom/personal-finance_tracker) | Personal finance dashboard to track income, expenses and savings | Python, Jupyter |
+      | [conversion-rate-bloc3](https://github.com/vinceslater-dotcom/conversion-rate-bloc3) | Conversion rate prediction model for an e-commerce platform | Python, ML |
+      | [DAFS-Cyber_Sentinel](https://github.com/vinceslater-dotcom/DAFS-Cyber_Sentinel) | Cybersecurity threat detection exercise | Python |
+
+      ---
+
+      ## 📫 Get In Touch
+
+      [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vincent-philippot)
+
+      ---
+
+      *Open to new opportunities — feel free to reach out!*
